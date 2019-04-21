@@ -1,0 +1,7 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÒŠùÿÿÿÿ8ÀË»Ö£-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾Ÿïúÿÿÿÿ8ÀË»Ö£-
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8›øÉÖ£-
+Dsquid:S1481"&Remove this unused "i" local variable.(Ç¬“õ8èĞÖ£-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÒŠùÿÿÿÿ8ÀË»Ö£-
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È˜¼Ö£-
