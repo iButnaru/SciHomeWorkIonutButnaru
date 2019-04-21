@@ -1,0 +1,6 @@
+
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Şûüÿÿÿÿ8“£¢Ô£-
+[squid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¥ö·Ô£-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Üœ‚ıÿÿÿÿ8“£¢Ô£-
+~squid:S00116"ZRename this field "id_accomodation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î·Ş´øÿÿÿÿ8’ç Ô£-
+vsquid:S00116"WRename this field "id_room_fair" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÆ—¶8•²¡Ô£-
